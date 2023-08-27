@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-27T13:56:11.865Z</updated>
+  <updated>2023-08-27T14:00:56.870Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>了解GitHub</title>
-    <link href="http://example.com/2023/08/27/git-introduce/"/>
-    <id>http://example.com/2023/08/27/git-introduce/</id>
-    <published>2023-08-27T10:12:20.000Z</published>
-    <updated>2023-08-27T13:56:11.865Z</updated>
+    <link href="http://example.com/2023/05/25/git-introduce/"/>
+    <id>http://example.com/2023/05/25/git-introduce/</id>
+    <published>2023-05-25T10:12:20.000Z</published>
+    <updated>2023-08-27T14:00:56.870Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://cxb7.oss-cn-hangzhou.aliyuncs.com/v2_3649e6221eac4983b4ec6bb779617131_img_000.jpg"> </p><h1 id="了解-GitHub：社交编程平台"><a href="#了解-GitHub：社交编程平台" class="headerlink" title="了解 GitHub：社交编程平台"></a>了解 GitHub：社交编程平台</h1><p>  GitHub 是一个广受欢迎的社交编程平台，为开发者提供了协作、版本控制和代码托管等功能。它已经成为开源项目、个人开发者和企业团队的首选工具之一。本文将向你介绍 GitHub 的主要特点和优势。</p><h2 id="特点与功能"><a href="#特点与功能" class="headerlink" title="特点与功能"></a>特点与功能</h2><h3 id="1-代码托管"><a href="#1-代码托管" class="headerlink" title="1. 代码托管"></a>1. 代码托管</h3><p>  GitHub 提供了强大的代码托管功能，允许开发者将代码仓库存储在云端。每个项目都有一个独特的仓库，你可以在其中存储代码、文档、图片等。你可以使用 Git 来管理和追踪代码变更，这使得协作变得更加高效。</p><h3 id="2-分布式版本控制"><a href="#2-分布式版本控制" class="headerlink" title="2. 分布式版本控制"></a>2. 分布式版本控制</h3><p>  GitHub 使用 Git 进行版本控制，这意味着你可以跟踪代码的每一个修改和提交。你可以创建分支来开发新功能，然后将其合并回主分支。这使得多人协作变得容易，同时也保护了代码库的稳定性。</p><h3 id="3-协作与讨论"><a href="#3-协作与讨论" class="headerlink" title="3. 协作与讨论"></a>3. 协作与讨论</h3><p>  GitHub 提供了 issue 和 pull request 功能，用于协作和讨论代码。你可以提交问题（issue）来报告 Bug 或提出功能请求，其他开发者可以在其中进行评论。通过 pull request，你可以将自己的代码变更推送到项目中，其他人可以审查代码并提供反馈。</p><h3 id="4-开源社区"><a href="#4-开源社区" class="headerlink" title="4. 开源社区"></a>4. 开源社区</h3><p>  GitHub 是全球最大的开源社区之一。数以万计的开源项目托管在 GitHub 上，这为开发者提供了学习、贡献和展示自己的机会。你可以浏览各种项目，了解最新的技术趋势，并为自己喜欢的项目做出贡献。</p><h2 id="GitHub-的优势"><a href="#GitHub-的优势" class="headerlink" title="GitHub 的优势"></a>GitHub 的优势</h2><h3 id="1-可视化界面"><a href="#1-可视化界面" class="headerlink" title="1. 可视化界面"></a>1. 可视化界面</h3><p>  GitHub 提供了直观的可视化界面，使得代码仓库的管理变得简单。你可以在网页上浏览文件、提交历史，甚至进行代码比较。这对于非技术人员和初学者来说尤其有帮助。</p><h3 id="2-学习资源"><a href="#2-学习资源" class="headerlink" title="2. 学习资源"></a>2. 学习资源</h3><p>  GitHub 不仅仅是一个代码托管平台，还是一个巨大的学习资源库。你可以在上面找到各种编程语言和技术的示例代码，以及开发教程和指南。这对于新手来说是一个宝藏。</p><h3 id="3-良好的工作流"><a href="#3-良好的工作流" class="headerlink" title="3. 良好的工作流"></a>3. 良好的工作流</h3><p>  GitHub 通过分支、合并请求和代码审查等功能，构建了一套高效的工作流程。这有助于团队协作，提高代码质量，减少冲突和错误。</p><h3 id="4-项目托管与演示"><a href="#4-项目托管与演示" class="headerlink" title="4. 项目托管与演示"></a>4. 项目托管与演示</h3><p>  不仅仅是代码，GitHub 还可以托管各种项目文档、网站和演示。你可以使用 GitHub Pages 功能来托管静态网站，将你的项目展示给他人。</p><h2 id="Last"><a href="#Last" class="headerlink" title="Last"></a>Last</h2><p>  GitHub 在全球范围内连接了数百万开发者，成为了一个充满活力和创新的社区。无论是个人项目还是大型团队合作，GitHub 都为开发者提供了丰富的工具和资源，帮助他们更轻松地构建、协作和展示自己的项目。</p>]]></content>
     
@@ -41,10 +41,10 @@
   
   <entry>
     <title>my-blog</title>
-    <link href="http://example.com/2023/08/26/my-blog/"/>
-    <id>http://example.com/2023/08/26/my-blog/</id>
-    <published>2023-08-26T09:34:02.000Z</published>
-    <updated>2023-08-27T08:31:39.191Z</updated>
+    <link href="http://example.com/2023/03/26/my-blog/"/>
+    <id>http://example.com/2023/03/26/my-blog/</id>
+    <published>2023-03-26T09:34:02.000Z</published>
+    <updated>2023-08-27T14:01:48.945Z</updated>
     
     <content type="html"><![CDATA[<h1 id="It-s-my-blog"><a href="#It-s-my-blog" class="headerlink" title="It&#96;s my blog"></a>It&#96;s my blog</h1><p><img src="https://images.pexels.com/photos/18015009/pexels-photo-18015009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></p>]]></content>
     
@@ -63,10 +63,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/08/26/hello-world/"/>
-    <id>http://example.com/2023/08/26/hello-world/</id>
-    <published>2023-08-26T09:09:53.212Z</published>
-    <updated>2023-08-26T09:09:53.212Z</updated>
+    <link href="http://example.com/2023/02/21/hello-world/"/>
+    <id>http://example.com/2023/02/21/hello-world/</id>
+    <published>2023-02-21T09:34:02.000Z</published>
+    <updated>2023-08-27T14:02:21.154Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     

@@ -1,3 +1,3 @@
-http://example.com/2023/08/26/my-first-blog/
+http://example.com/2023/08/26/my-blog/
 http://example.com/2023/08/26/hello-world/
 http://example.com/
